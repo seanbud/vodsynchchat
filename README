@@ -1,0 +1,12 @@
+Things we can use:
+
+- Node.JS
+
+in NPM:
+- http://nowjs.com/guide Now.js (for transferring data)
+- http://expressjs.com/ Express (For client site)
+- https://github.com/caolan/async# Async (for handling the data)
+
+For Voice Chat:
+- I actually have no clue
+- http://code.google.com/p/wami-recorder/ Maybe? 
